@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nama Lengkap Kamu]
+# 👋 Hi, I'm Omega Widyatmaja
 
 A passionate software engineering graduate from Indonesia, diving deep into the world of Web3 and blockchain technology. I'm currently focused on building the foundational skills to create decentralized applications that are secure, efficient, and user-friendly.
 
