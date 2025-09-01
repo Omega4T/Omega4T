@@ -13,12 +13,6 @@ A passionate software engineering graduate from Indonesia, diving deep into the 
 
 ---
 
-### 🚀 My Projects
-
-*Project-proyek kerenmu akan muncul di sini nanti!*
-
----
-
 ### 📫 How to Reach Me
 
 
