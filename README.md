@@ -16,8 +16,8 @@ Currently focused on building decentralized applications that are **secure, effi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-uevd-git-master-omega4ts-projects.vercel.app/api?username=Omega4T&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Omega's GitHub Stats" />
-  <img src="https://github-readme-stats-uevd-git-master-omega4ts-projects.vercel.app/api/top-langs/?username=Omega4T&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-uevd-git-master-omega4ts-projects.vercel.app/api?username=Omega4T&show_icons=true&theme=radical&bust_cache=5&hide_border=true&count_private=true" alt="Omega's GitHub Stats" />
+  <img src="https://github-readme-stats-uevd-git-master-omega4ts-projects.vercel.app/api/top-langs/?username=Omega4T&layout=compact&theme=radical&bust_cache=5&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 
