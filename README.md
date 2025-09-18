@@ -15,15 +15,16 @@ Currently focused on building decentralized applications that are **secure, effi
 
 ---
 
-![Omega's GitHub Stats](https://github-readme-stats-git-master-omega4ts-projects.vercel.app/api?username=Omega4T&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats-git-master-omega4ts-projects.vercel.app/api/top-langs/?username=Omega4T&layout=compact&theme=radical&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats-uevd-git-master-omega4ts-projects.vercel.app/api?username=Omega4T&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Omega's GitHub Stats" />
+  <img src="https://github-readme-stats-uevd-git-master-omega4ts-projects.vercel.app/api/top-langs/?username=Omega4T&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
+</p>
 
 
 ---
 
 ## 📈 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Omega4T&theme=radical&hide_border=false)
+  <img src="https://streak-stats.demolab.com/?user=Omega4T&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 ---
 
